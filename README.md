@@ -1,9 +1,11 @@
 # Attila Csanyi
 
 👋 Welcome here, I'm Attila.
-I am a Senior Remote Contractor currently focusing on **Angular** and **Web3**.
-Recently I am working at [CODA Cloud Limited](https://codacloud.io/) and [DeHub DAO](https://dehub.net/).
-Previously I have worked at [BenevolentAI](https://www.benevolent.com/) and [EPAM](https://www.epam.com/).
+I am a passionate Senior Remote Contractor currently focusing on **Angular**, **React** and **Web3** and like staying cutting-edge 💪 ✨.
+
+Some of my favourite technologies are [Nx](https://nx.dev/), [GraphQL](https://graphql.org/), [Supabase](https://supabase.com/), [TailwindCSS](https://tailwindcss.com/), ...
+
+Recently I am working at [DeHub DAO](https://dehub.net/) after _I have been working for [CODA Cloud Limited](https://codacloud.io/), [BenevolentAI](https://www.benevolent.com/) and [EPAM](https://www.epam.com/) for years._
 
 ## My recent passion
 
