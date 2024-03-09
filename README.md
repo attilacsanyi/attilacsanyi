@@ -11,8 +11,8 @@ Recently I am contributing to [DeHub](https://dehub.net/) after _I have been wor
 
 - 🔭 I’m a passionate developer who is excited about new tech. I am currently enthisiastic to learn Web3 and and learn about Defi.
 - 🌱 Getting lost in DEFI world and impressed by [RadiX](https://www.radixdlt.com/)
-- ✨ I’m contributing to the opensource [Unixsocial](https://github.com/unixsocial/unix) Radix Project .
-- 🤔 Extend my eperience with [React](https://reactjs.org/) with [Scrimba](https://scrimba.com/)
+- ✨ I’m contributing to the opensource [Unixsocial](https://github.com/unixsocial/unix) Radix Project
+- 🤔 Extend my eperience with [React](https://reactjs.org/) with [Scrimba](https://scrimba.com/) and [NextJS](https://nextjs.org/learn)
 - ⚡ Fun fact: Like training my [body](https://www.youtube.com/watch?v=yAccZcQ-Mbs) 💪 and my brain 🤔 regularly with music 🎶
 - 📫 How to reach me: [Yahoo](attila.csnyi@yahoo.co.uk), [Telegram](https://t.me/attilacsanyi)
 
