@@ -5,7 +5,7 @@ I am a passionate Senior Remote Contractor currently focusing on **Angular**, **
 
 Some of my favourite technologies are [Angular](https://angular.io/), [React](https://react.dev/), [Nx](https://nx.dev/), [GraphQL](https://graphql.org/), [Supabase](https://supabase.com/), [TailwindCSS](https://tailwindcss.com/), ...
 
-Recently I am contributing to [DeHub](https://dehub.net/) after _I have been working for [CODA Cloud Limited](https://codacloud.io/), [BenevolentAI](https://www.benevolent.com/) and [EPAM](https://www.epam.com/) for years._
+Recently I am contributing to [1inch](https://1inch.io/) after _I have been working for [DeHub](https://dehub.net/), [CODA Cloud Limited](https://codacloud.io/), [BenevolentAI](https://www.benevolent.com/) and [EPAM](https://www.epam.com/) for years._
 
 ## My recent passion
 
