@@ -1,40 +1,60 @@
 # Attila Csanyi
 
-👋 Welcome here, I'm Attila.
-I am a passionate Senior Remote Contractor currently focusing on **Angular**, **React** and **Web3** and like staying cutting-edge 💪 ✨.
+## 👋 Welcome
 
-Some of my favourite technologies are [Angular](https://angular.io/), [React](https://react.dev/), [Nx](https://nx.dev/), [GraphQL](https://graphql.org/), [Supabase](https://supabase.com/), [TailwindCSS](https://tailwindcss.com/), ...
+I'm a passionate **Senior Software Engineer** specializing in cutting-edge web technologies, with a strong focus on **Web3**, **NextJS**, **React**, and **Angular**. My professional journey is driven by a continuous desire to explore and master innovative technological landscapes.
 
-Recently I am contributing to [1inch](https://1inch.io/) after _I have been working for [DeHub](https://dehub.net/), [CODA Cloud Limited](https://codacloud.io/), [BenevolentAI](https://www.benevolent.com/) and [EPAM](https://www.epam.com/) for years._
+## 💻 Professional Expertise
 
-## My recent passion
+### Core Technologies
+- **Frontend Frameworks:** [NextJS](https://nextjs.org/), [React](https://react.dev/), [Angular](https://angular.io/)
+- **Programming Languages:** [TypeScript](https://www.typescriptlang.org/)
+- **Development Tools:** [Nx](https://nx.dev/), [GraphQL](https://graphql.org/)
 
-- 🔭 I’m a passionate developer who is excited about new tech. I am currently enthisiastic to learn Web3 and and learn about Defi.
-- 🌱 Getting lost in DEFI world and impressed by [RadiX](https://www.radixdlt.com/)
-- ✨ I’m contributing to the opensource [Unixsocial](https://github.com/unixsocial/unix) Radix Project
-- 🤔 Extend my eperience with [React](https://reactjs.org/) with [Scrimba](https://scrimba.com/) and [NextJS](https://nextjs.org/learn)
-- ⚡ Fun fact: Like training my [body](https://www.youtube.com/watch?v=yAccZcQ-Mbs) 💪 and my brain 🤔 regularly with music 🎶
-- 📫 How to reach me: [Yahoo](attila.csnyi@yahoo.co.uk), [Telegram](https://t.me/attilacsanyi)
+### Notable Professional Experience
+I've contributed to groundbreaking projects at industry-leading companies, including:
+- [1inch](https://1inch.io/)
+- [DeHub](https://dehub.net/)
+- [CODA Cloud Limited](https://codacloud.io/)
+- [BenevolentAI](https://www.benevolent.com/)
+- [EPAM](https://www.epam.com/)
 
-## 🔧 Tools I Like To Use
+## 🚀 Current Passions & Learning
 
-- [Angular](https://angular.io/), [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)
-- [Nx](https://nx.dev/), [GraphQL](https://www.the-guild.dev/graphql/codegen)
-- [Contentful](https://www.contentful.com/), [Netlify](https://www.netlify.com/)
-- [Cypress](https://www.cypress.io/), [Storybook](https://storybook.js.org/)
-- [NgRx](https://ngrx.io/), [Sass](https://sass-lang.com/)
+- 🔭 Diving deep into Web3 and DeFi technologies
+- ⛓️ Learning blockchain development via [Cyfrin Updraft](https://www.cyfrin.io/updraft)
+- 🌱 Exploring the innovative world of [RadiX](https://www.radixdlt.com/)
+- ✨ Open-source contributor to [Unixsocial](https://github.com/unixsocial/unix) Radix Project
 
-<!--
-**attilacsanyi/attilacsanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technology Stack
 
-Here are some ideas to get you started:
+### Frameworks & Libraries
+- [NextJS](https://nextjs.org/)
+- [React](https://react.dev/)
+- [Angular](https://angular.io/)
+- [Nx](https://nx.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Platforms
+- [GraphQL](https://www.the-guild.dev/graphql/codegen)
+- [Contentful](https://www.contentful.com/)
+- [Netlify](https://www.netlify.com/)
+- [Cypress](https://www.cypress.io/)
+- [Storybook](https://storybook.js.org/)
+
+### State Management & Styling
+- [Stately](https://stately.ai/)
+- [NgRx](https://ngrx.io/)
+- [Sass](https://sass-lang.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+
+## 🌟 Personal Development
+
+- 📚 Continuously expanding skills through platforms like [Scrimba](https://scrimba.com/) and [Udemy](https://www.udemy.com)
+- 💪 Balancing professional growth with physical [fitness](https://www.youtube.com/watch?v=yAccZcQ-Mbs) and mental wellness
+
+## 📬 Connect With Me
+
+- 📧 [attila.csnyi@yahoo.co.uk](mailto:attila.csnyi@yahoo.co.uk)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/attilacsanyi)
+- 🐱 [GitHub](https://github.com/attilacsanyi)
+- 🐦 [Twitter](https://x.com/attilacsanyi)
