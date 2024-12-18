@@ -29,8 +29,8 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 ## 🛠 Technology Stack
 
 ### Frameworks & Libraries
-- [NextJS](https://nextjs.org/)
-- [React](https://react.dev/)
+- [NextJS](https://nextjs.org/) (projects: [Meals](https://github.com/attilacsanyi/nextjs-meals), [Routing](https://github.com/attilacsanyi/next-routing))
+- [React](https://react.dev/) (projects: [Poster](https://github.com/attilacsanyi/react-posts))
 - [Angular](https://angular.io/)
 - [Nx](https://nx.dev/)
 
@@ -45,7 +45,7 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 - [Stately](https://stately.ai/)
 - [NgRx](https://ngrx.io/)
 - [Sass](https://sass-lang.com/)
-- [TailwindCSS](https://tailwindcss.com/)
+- [TailwindCSS](https://tailwindcss.com/) (projects: [Nike](https://github.com/attilacsanyi/tailwind-nike))
 
 ## 🌟 Personal Development
 
