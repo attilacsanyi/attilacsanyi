@@ -29,9 +29,9 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 ## 🛠 Technology Stack
 
 ### Frameworks & Libraries
-- [NextJS](https://nextjs.org/) (projects: [Meals](https://github.com/attilacsanyi/next-meals), [Routing](https://github.com/attilacsanyi/next-routing), [Poster](https://github.com/attilacsanyi/next-posts))
+- [NextJS](https://nextjs.org/) (projects: [Meals](https://github.com/attilacsanyi/next-meals), [Routing](https://github.com/attilacsanyi/next-routing), [Poster](https://github.com/attilacsanyi/next-posts), [Training](https://github.com/attilacsanyi/next-training))
 - [React](https://react.dev/) (projects: [Poster](https://github.com/attilacsanyi/react-posts))
-- [Angular](https://angular.io/)
+- [Angular](https://angular.io/) (projects: [DeHub](https://dehub.net))
 - [Nx](https://nx.dev/)
 
 ### Tools & Platforms
