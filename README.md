@@ -4,6 +4,13 @@
 
 I'm a passionate **Senior Software Engineer** specializing in cutting-edge web technologies, with a strong focus on **Web3**, **NextJS**, **React**, and **Angular**. My professional journey is driven by a continuous desire to explore and master innovative technological landscapes.
 
+## 📬 Connect With Me
+
+- 📧 [attila.csnyi@yahoo.co.uk](mailto:attila.csnyi@yahoo.co.uk)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/attilacsanyi)
+- 🐱 [GitHub](https://github.com/attilacsanyi)
+- 🐦 [Twitter](https://x.com/attilacsanyi)
+
 ## 💻 Professional Expertise
 
 ### Core Technologies
@@ -51,10 +58,3 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 
 - 📚 Continuously expanding skills through platforms like [Scrimba](https://scrimba.com/) and [Udemy](https://www.udemy.com)
 - 💪 Balancing professional growth with physical [fitness](https://www.youtube.com/watch?v=yAccZcQ-Mbs) and mental wellness
-
-## 📬 Connect With Me
-
-- 📧 [attila.csnyi@yahoo.co.uk](mailto:attila.csnyi@yahoo.co.uk)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/attilacsanyi)
-- 🐱 [GitHub](https://github.com/attilacsanyi)
-- 🐦 [Twitter](https://x.com/attilacsanyi)
