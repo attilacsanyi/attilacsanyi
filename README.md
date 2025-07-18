@@ -2,7 +2,7 @@
 
 ## 👋 Welcome
 
-I'm a passionate **Senior Software Engineer** specializing in cutting-edge web technologies, with a strong focus on **Web3**, **NextJS**, **React**, and **Angular**. My professional journey is driven by a continuous desire to explore and master innovative technological landscapes.
+I'm a passionate **Senior Software Engineer** specializing in cutting-edge web technologies, with a strong focus on **AI**, **Web3**, **NextJS**, **React**, and **Angular**. My professional journey is driven by a continuous desire to explore and master innovative technological landscapes.
 
 ## 📬 Connect With Me
 
@@ -10,6 +10,7 @@ I'm a passionate **Senior Software Engineer** specializing in cutting-edge web t
 - 🔗 [LinkedIn](https://www.linkedin.com/in/attilacsanyi)
 - 🐱 [GitHub](https://github.com/attilacsanyi)
 - 🐦 [Twitter](https://x.com/attilacsanyi)
+- 🎥 [YouTube](https://www.youtube.com/@AttilaCsanyi)
 
 ## 💻 Professional Expertise
 
@@ -20,6 +21,7 @@ I'm a passionate **Senior Software Engineer** specializing in cutting-edge web t
 
 ### Notable Professional Experience
 I've contributed to groundbreaking projects at industry-leading companies, including:
+- [Sparkland](https://www.sparkland.io)
 - [1inch](https://1inch.io/)
 - [DeHub](https://dehub.net/)
 - [CODA Cloud Limited](https://codacloud.io/)
@@ -28,20 +30,21 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 
 ## 🚀 Current Passions & Learning
 
+- 🪄 Generative AI building Agentic interfaces [Hashbrown](https://hashbrown.dev/)
 - 🔭 Diving deep into Web3 and DeFi technologies
-- ⛓️ Learning blockchain development via [Cyfrin Updraft](https://www.cyfrin.io/updraft)
+- ⛓️ Learning blockchain development via [Cyfrin Updrat](https://www.cyfrin.io/updraft)
 - 🌱 Exploring the innovative world of [RadiX](https://www.radixdlt.com/)
 - ✨ Open-source contributor to [Unixsocial](https://github.com/unixsocial/unix) Radix Project
 
 ## 🛠 Technology Stack
 
 ### Frameworks & Libraries
-- [NextJS](https://nextjs.org/) (projects: [Meals](https://github.com/attilacsanyi/next-meals), [Routing](https://github.com/attilacsanyi/next-routing), [Poster](https://github.com/attilacsanyi/next-posts), [Training](https://github.com/attilacsanyi/next-training), [✨ Prompt](https://github.com/attilacsanyi/next-prompt))
-- [React](https://react.dev/) (projects: [Poster](https://github.com/attilacsanyi/react-posts))
 - [Angular](https://angular.io/) (projects: [DeHub](https://dehub.net))
-- [Nx](https://nx.dev/)
+- [NextJS](https://nextjs.org/) (projects: [Crypto Portfolio](https://next-portfoliom.netlify.app/), [Meals](https://github.com/attilacsanyi/next-meals), [Routing](https://github.com/attilacsanyi/next-routing), [Poster](https://github.com/attilacsanyi/next-posts), [Training](https://github.com/attilacsanyi/next-training), [✨ Prompt](https://github.com/attilacsanyi/next-prompt))
+- [React](https://react.dev/) (projects: [Poster](https://github.com/attilacsanyi/react-posts))
 
 ### Tools & Platforms
+- [Nx](https://nx.dev/)
 - [GraphQL](https://www.the-guild.dev/graphql/codegen)
 - [Contentful](https://www.contentful.com/)
 - [Netlify](https://www.netlify.com/)
@@ -49,8 +52,8 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 - [Storybook](https://storybook.js.org/)
 
 ### State Management & Styling
+- [SignalStore](https://ngrx.io/)
 - [Stately](https://stately.ai/)
-- [NgRx](https://ngrx.io/)
 - [Sass](https://sass-lang.com/)
 - [TailwindCSS](https://tailwindcss.com/) (projects: [Nike](https://github.com/attilacsanyi/tailwind-nike))
 
@@ -58,3 +61,4 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 
 - 📚 Continuously expanding skills through platforms like [Scrimba](https://scrimba.com/) and [Udemy](https://www.udemy.com)
 - 💪 Balancing professional growth with physical [fitness](https://www.youtube.com/watch?v=yAccZcQ-Mbs) and mental wellness
+- 🏎️ Spirited driving and 🛸 [FPV flying](https://bit.ly/atka-fpv)
