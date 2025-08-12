@@ -39,7 +39,7 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 ## 🛠 Technology Stack
 
 ### Frameworks & Libraries
-- [Angular](https://angular.io/) (projects: [DeHub](https://dehub.net))
+- [Angular](https://angular.io/) (projects: [DeHub](https://dehub.net), [Binance Pulse](https://binance-pulse.netlify.app/) - [repo](https://github.com/attilacsanyi/binance-pulse))
 - [NextJS](https://nextjs.org/) (projects: [Crypto Portfolio](https://next-portfoliom.netlify.app/), [Meals](https://github.com/attilacsanyi/next-meals), [Routing](https://github.com/attilacsanyi/next-routing), [Poster](https://github.com/attilacsanyi/next-posts), [Training](https://github.com/attilacsanyi/next-training), [✨ Prompt](https://github.com/attilacsanyi/next-prompt))
 - [React](https://react.dev/) (projects: [Poster](https://github.com/attilacsanyi/react-posts))
 
