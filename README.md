@@ -32,7 +32,7 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 
 - 🪄 Generative AI building Agentic interfaces [Hashbrown](https://hashbrown.dev/)
 - 🔭 Diving deep into Web3 and DeFi technologies
-- ⛓️ Learning blockchain development via [Cyfrin Updrat](https://www.cyfrin.io/updraft)
+- ⛓️ Learning blockchain development via [Cyfrin Updraft](https://www.cyfrin.io/updraft)
 - 🌱 Exploring the innovative world of [RadiX](https://www.radixdlt.com/)
 - ✨ Open-source contributor to [Unixsocial](https://github.com/unixsocial/unix) Radix Project
 
@@ -40,7 +40,7 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 
 ### Frameworks & Libraries
 - [Angular](https://angular.io/) (projects: [DeHub](https://dehub.net), [Binance Pulse](https://binance-pulse.netlify.app/) - [repo](https://github.com/attilacsanyi/binance-pulse))
-- [NextJS](https://nextjs.org/) (projects: [Crypto Portfolio](https://next-portfoliom.netlify.app/), [Meals](https://github.com/attilacsanyi/next-meals), [Routing](https://github.com/attilacsanyi/next-routing), [Poster](https://github.com/attilacsanyi/next-posts), [Training](https://github.com/attilacsanyi/next-training), [✨ Prompt](https://github.com/attilacsanyi/next-prompt))
+- [NextJS](https://nextjs.org/) (projects: [PortaFi](https://next-porta-fi.netlify.app/) - [repo](https://github.com/attilacsanyi/next-porta-fi), [Crypto Portfolio](https://next-portfoliom.netlify.app/), [Meals](https://github.com/attilacsanyi/next-meals), [Routing](https://github.com/attilacsanyi/next-routing), [Poster](https://github.com/attilacsanyi/next-posts), [Training](https://github.com/attilacsanyi/next-training), [✨ Prompt](https://github.com/attilacsanyi/next-prompt))
 - [React](https://react.dev/) (projects: [Poster](https://github.com/attilacsanyi/react-posts))
 
 ### Tools & Platforms
