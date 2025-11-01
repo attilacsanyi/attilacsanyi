@@ -30,7 +30,7 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 
 ## 🚀 Current Passions & Learning
 
-- 🪄 Generative AI building Agentic interfaces [Hashbrown](https://hashbrown.dev/)
+- 🪄 Generative AI building Agentic interfaces [Hashbrown](https://hashbrown.dev/), [DeepLearningAI](https://learn.deeplearning.ai/courses/agentic-ai)
 - 🔭 Diving deep into Web3 and DeFi technologies
 - ⛓️ Learning blockchain development via [Cyfrin Updraft](https://www.cyfrin.io/updraft)
 - 🌱 Exploring the innovative world of [RadiX](https://www.radixdlt.com/)
