@@ -21,12 +21,12 @@ I'm a passionate **Senior Software Engineer** specializing in cutting-edge web t
 
 ### Notable Professional Experience
 I've contributed to groundbreaking projects at industry-leading companies, including:
-- [Sparkland](https://www.sparkland.io)
-- [1inch](https://1inch.io/)
-- [DeHub](https://dehub.net/)
-- [CODA Cloud Limited](https://codacloud.io/)
-- [BenevolentAI](https://www.benevolent.com/)
-- [EPAM](https://www.epam.com/)
+- [Sparkland](https://www.sparkland.io) _(Crypto high-frequency trading / digital assets)_
+- [1inch](https://1inch.com/) _(DeFi / Web3 – non-custodial crypto exchange aggregator & Web3 protocol network)_
+- [DeHub](https://dehub.net/) _(Web3 / metaverse / decentralized entertainment)_
+- [CODA Cloud Limited](https://codacloud.io/) _(Industrial IoT / asset-management tech)_
+- [BenevolentAI](https://www.benevolent.com/) _(AI / biotech – applying artificial intelligence to drug discovery)_
+- [EPAM](https://www.epam.com/) _(IT services / digital engineering)_
 
 ## 🚀 Current Passions & Learning
 
