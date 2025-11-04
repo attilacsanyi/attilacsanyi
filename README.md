@@ -36,12 +36,12 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 - 🌱 Exploring the innovative world of [RadiX](https://www.radixdlt.com/)
 - ✨ Open-source contributor to [Unixsocial](https://github.com/unixsocial/unix) Radix Project
 
-## 🛠 Technology Stack
-
-### Frameworks & Libraries
+## 🌟 Side Projects
 - [Angular](https://angular.io/) (projects: [DeHub](https://dehub.net), [Binance Pulse](https://binance-pulse.netlify.app/) - [repo](https://github.com/attilacsanyi/binance-pulse))
 - [NextJS](https://nextjs.org/) (projects: [PortaFi](https://next-porta-fi.netlify.app/) - [repo](https://github.com/attilacsanyi/next-porta-fi), [Crypto Portfolio](https://next-portfoliom.netlify.app/), [Meals](https://github.com/attilacsanyi/next-meals), [Routing](https://github.com/attilacsanyi/next-routing), [Poster](https://github.com/attilacsanyi/next-posts), [Training](https://github.com/attilacsanyi/next-training), [✨ Prompt](https://github.com/attilacsanyi/next-prompt))
 - [React](https://react.dev/) (projects: [Poster](https://github.com/attilacsanyi/react-posts))
+
+## 🛠 Technology Stack
 
 ### Tools & Platforms
 - [Nx](https://nx.dev/)
@@ -59,6 +59,6 @@ I've contributed to groundbreaking projects at industry-leading companies, inclu
 
 ## 🌟 Personal Development
 
-- 📚 Continuously expanding skills through platforms like [Scrimba](https://scrimba.com/) and [Udemy](https://www.udemy.com)
+- 📚 Continuously expanding skills through platforms like [DeepLearningAI](https://learn.deeplearning.ai/courses/agentic-ai), [Cyfrin Updraft](https://www.cyfrin.io/updraft), [Scrimba](https://scrimba.com/) or [Udemy](https://www.udemy.com)
 - 💪 Balancing professional growth with physical [fitness](https://www.youtube.com/watch?v=yAccZcQ-Mbs) and mental wellness
 - 🏎️ Spirited driving and 🛸 [FPV flying](https://bit.ly/atka-fpv)
