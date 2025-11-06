@@ -14,12 +14,14 @@ I'm a passionate **Senior Software Engineer** specializing in cutting-edge web t
 
 ## 💻 Professional Expertise
 
-### Core Technologies
+📃 Check my full [resume](https://attilacsanyi.netlify.app/)
+
+### Technologies
 - **Frontend Frameworks:** [NextJS](https://nextjs.org/), [React](https://react.dev/), [Angular](https://angular.io/)
 - **Programming Languages:** [TypeScript](https://www.typescriptlang.org/)
 - **Development Tools:** [Nx](https://nx.dev/), [GraphQL](https://graphql.org/)
 
-### Notable Professional Experience
+### Experiences
 I've contributed to groundbreaking projects at industry-leading companies, including:
 - [Sparkland](https://www.sparkland.io) _(Crypto high-frequency trading / digital assets)_
 - [1inch](https://1inch.com/) _(DeFi / Web3 – non-custodial crypto exchange aggregator & Web3 protocol network)_
